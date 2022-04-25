@@ -13,6 +13,38 @@
 </p>
 
 ---
+**🛠 &nbsp;Areas of Expertise:**
+- Customized Deep Learning
+- Hybrid Deep Learning
+- Statistical Modeling
+- Bayesian Statistics
+- Active Learning
+- Gaussian Statistics
+
+---
+**✍🏼 &nbsp;Top Projects:**
+- State-of-Charge Estimations (SOC)
+- State-of-Health Estimations (SOH)
+- Remaining Useful Life Estimations (RUL)
+- Saefty of Autonomous Vehicles (ISO 21448)
+- Time-series Forecasting
+- Spatio-Temporal Modeling 
+- Active Learning
+- Warranty Analytics
+- Sensor Fusion
+
+---
+**✍🏼 &nbsp;Top Collaborators:**
+- [Dr. Abdallah Chehade](https://scholar.google.com/citations?user=wmet2ywAAAAJ&hl=en&oi=ao)
+- [Dr. Zunya Shi](https://scholar.google.com/citations?user=AxCOzhEAAAAJ&hl=en&oi=ao)
+- [Mayuresh Savargaonkar](https://scholar.google.com/citations?user=vwMP9CcAAAAJ&hl=en&oi=ao)
+- [Isaiah Oyewole](https://scholar.google.com/citations?user=76EQbWkAAAAJ&hl=en&oi=ao)
+- Yichao Zeng
+- Wael Hassanieh
+- Nader Kheir
+- Meriam Chelbi
+
+---
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irda-lab&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
