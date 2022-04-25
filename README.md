@@ -34,7 +34,7 @@
 - Sensor Fusion
 
 ---
-**✍🏼 &nbsp;Top Collaborators:**
+**👨🏽‍💻 &nbsp;Top Collaborators:**
 - [Dr. Abdallah Chehade](https://scholar.google.com/citations?user=wmet2ywAAAAJ&hl=en&oi=ao)
 - [Dr. Zunya Shi](https://scholar.google.com/citations?user=AxCOzhEAAAAJ&hl=en&oi=ao)
 - [Mayuresh Savargaonkar](https://scholar.google.com/citations?user=vwMP9CcAAAAJ&hl=en&oi=ao)
