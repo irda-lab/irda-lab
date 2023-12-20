@@ -26,7 +26,7 @@
 - State-of-Charge Estimations (SOC)
 - State-of-Health Estimations (SOH)
 - Remaining Useful Life Estimations (RUL)
-- Saefty of Autonomous Vehicles (ISO 21448)
+- Safety of Autonomous Vehicles (ISO 21448)
 - Time-series Forecasting
 - Spatio-Temporal Modeling 
 - Active Learning
@@ -34,16 +34,20 @@
 - Sensor Fusion
 
 ---
-**👨🏽‍💻 &nbsp;Top Collaborators:**
+**👨🏽‍💻 &nbsp;Current Collaborators:**
 - [Dr. Abdallah Chehade](https://scholar.google.com/citations?user=wmet2ywAAAAJ&hl=en&oi=ao)
-- [Dr. Zunya Shi](https://scholar.google.com/citations?user=AxCOzhEAAAAJ&hl=en&oi=ao)
-- [Mayuresh Savargaonkar](https://scholar.google.com/citations?user=vwMP9CcAAAAJ&hl=en&oi=ao)
 - [Isaiah Oyewole](https://scholar.google.com/citations?user=76EQbWkAAAAJ&hl=en&oi=ao)
-- Yichao Zeng
-- Wael Hassanieh
-- Nader Kheir
+- [Wael Hassanieh](https://scholar.google.com/citations?user=azJyBaQAAAAJ&hl=en&oi=ao)
 - Meriam Chelbi
+- Hanadi Matar
+- Yichao Zeng
 
+**👨🏽‍💻 &nbsp;Past Collaborators:**
+- [Dr. Zunya Shi](https://scholar.google.com/citations?user=AxCOzhEAAAAJ&hl=en&oi=ao)
+- [Dr. Mayuresh Savargaonkar](https://scholar.google.com/citations?user=vwMP9CcAAAAJ&hl=en&oi=ao)
+- Morteza Gorzinmataee
+- Nader Kheir
+  
 ---
 
 <p>
